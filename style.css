@@ -1,0 +1,188 @@
+.class0 {
+    padding-top: 50px;
+    background-color: rgb(0, 91, 119);
+    color: rgb(255, 255, 240);
+    font-style: italic;
+}
+.class1 {
+    padding-left: 10%;
+    padding-top: 2px;
+    background-color: rgb(0, 91, 119);
+    color: antiquewhite;
+}
+
+.icon{
+    height: 10px;
+    width: 10px;
+    
+}
+.para1{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 15cm;
+    padding-bottom: 5px;
+}
+.display1{
+    border-radius: 20px;
+    border-style: groove;
+    float: right;
+    height: 400px;
+    width: 400px;
+}
+.disp{
+    padding-left: 10px;
+    padding-right: 10px;
+    filter: opacity(85%);
+}
+.space{
+    padding-top: 3cm;
+    
+}
+.space1{
+    padding-top: 15cm;
+}
+.class3{
+    text-align: center;
+    background-color: greenyellow;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+.home-design{
+    font-family: monospace;
+    font-size: 50px;
+    padding-left: 5cm;
+    padding-top: 5cm;
+}
+
+.gap_before_social_links{
+padding-top: 8cm;
+}
+
+.social{
+    float: right;
+}
+
+.facebook{
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 20px;
+}
+.instagram{
+   display: inline-block;
+    padding-left: 5px;
+    padding-right: 20px;
+}
+.github{
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 20px;
+
+}
+.linked-in{
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 20px;
+}
+  .class4{
+    color: lightgoldenrodyellow;
+    text-align: right;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Comic Sans MS','Comic Sans','cursive'  ;
+    font-style: italic;
+    
+  }
+  .secondary{
+    border-radius: 15px;
+    background-color: rgb(279,175,112);
+    position: relative;
+    left: 3%;
+      display: inline-block;
+      border-style: solid;
+      border-width: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: justify;
+
+  }
+  .higher-secondary{
+      border-radius: 15px;
+    background-color: rgb(279,175,112);
+      position: relative;
+      left: 33%;
+       display: inline-block;
+      border-style: solid;
+      border-width: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: justify;
+
+  }
+  .college{
+    border-radius: 15px;
+    background-color: rgb(279,175,112);
+    position: relative;
+    left: 66%;
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+  }
+  .certifications{
+      border-radius: 15px;
+    background-color: rgb(279,175,112);
+    position: relative;
+    left: 3%;
+      display: inline-block;
+      border-style: groove;
+      border-width: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: justify;
+      font-weight:bold ;
+  }
+  .non-certified-skills{
+      
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 60%;
+    border-radius: 15px;
+    background-color: rgb(279,175,112);
+    border-style: groove;
+      border-width: 5px;
+}
+.forms{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.icon1{
+    color:rgb(27, 27, 126);
+}
+.icon2{
+    color: rgb(246, 73, 73);
+}
+.icon3{
+    color: black;
+}
+.icon4{
+    color: blue;
+}
